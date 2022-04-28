@@ -53,5 +53,6 @@ client.on('message', async (channel, context, message) => {
     } else if ( typeof response === 'string' ) {
       client.say(channel, response);
     }
+    console.log("Responded to a message in chat");
 });
 });
