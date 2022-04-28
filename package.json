@@ -1,0 +1,16 @@
+{
+  "name": "minoubot",
+  "version": "1.0.0",
+  "description": "custom twitch bot for lytera_domino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "tmi.js": "^1.8.5"
+  }
+}
