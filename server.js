@@ -19,7 +19,7 @@ const commands = {
     response: 'Ma chaîne Youtube est encore en préparation ! Cette commande fonctionnera (avec le lien) lorsqu\'elle sera lancée !'
   },
   tdi: {
-    response: ''
+    response: 'Hey poti Minou ! Nous sommes atteints du trouble dissociatif de l\'identité (TDI). C\'est un trouble qui survient dû à des traumas importants durant l\'enfance (entre 6 et 9 ans), qui fragmente le cerveau en plusieurs identités à part entière. Nous sommes un système de 15+ alters. Pour faire simple ont est plusieurs dans un même corps. '
   }
 }
 
